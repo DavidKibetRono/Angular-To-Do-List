@@ -1,0 +1,20 @@
+.app{
+     /* background-color: cadetblue; */
+     width: 50%;
+}
+input{
+    width: 50%;
+    height: 50px;
+}
+.contents{
+
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+#btn{
+    padding: 15px;
+}
+.done .content{
+    text-decoration: line-through;
+}
